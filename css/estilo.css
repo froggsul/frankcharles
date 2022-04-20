@@ -151,6 +151,18 @@ header a:hover {
     border-radius: 8px;
 }
 
+@media (max-width: 480px){
+    .youtube iframe,
+    .youtube object,
+    .youtube embed {
+    width: 75%;
+    height: 37vw;
+    margin: auto;
+    border: 2px solid rgba(127, 127, 5, 0.822);
+    border-radius: 8px;
+    }
+}
+
 .spotifydiv {
     background-image: url("../img/spotifyPic.jpg");
     background-size: 100%;
@@ -170,6 +182,18 @@ header a:hover {
     border: 2px solid rgba(127, 127, 5, 0.822);
     border-radius: 8px;
 }
+
+@media (max-width: 480px){
+    .spotify iframe,
+    .spotify object,
+    .spotify embed {
+        width: 70%;
+        height: 40vw;
+        margin: 2vw;
+        border: 2px solid rgba(127, 127, 5, 0.822);
+        border-radius: 8px;
+    }
+} 
 
 .media {
     background-color: rgba(127, 127, 5, 0.822);
