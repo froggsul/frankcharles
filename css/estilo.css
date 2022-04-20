@@ -95,7 +95,7 @@ header a:hover {
 .frank {
     font-family: Montserrat;
     font-weight: bolder;
-    font-size: 7vw;
+    font-size: 8vw;
     margin-left: 4.5vw;
     clear: both;
 }
@@ -110,14 +110,14 @@ header a:hover {
     letter-spacing: 1px;
     text-indent: 2vw;
     text-align: left;
-    color: rgba(127, 127, 5, 0.822);
+    color: rgba(127, 127, 5);
     margin-left: 5vw;
 }
 .home-title-litle {
     display: none;
-    font-size: 5.5vw;
+    font-size: 7.5vw;
     margin-left: 5vw;
-    color: rgba(127, 127, 5, 0.822);
+    color: rgba(127, 127, 5);
 }
 
 @media (max-width: 480px){
