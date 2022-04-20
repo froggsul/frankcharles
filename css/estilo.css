@@ -270,8 +270,8 @@ header a:hover {
 
 @media (max-width: 480px){
     #biografia p {
-        font-size: 4vw;
-        width: 75%;
+        font-size: 4.5vw;
+        width: 80%;
     }
 }
 
