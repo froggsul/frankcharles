@@ -322,6 +322,17 @@ header a:hover {
     border-radius: 8px;
 }
 
+@media (max-width: 480px){
+    .youtubeEnt iframe,
+    .youtubeEnt object,
+    .youtubeEnt embed {
+    width: 75%;
+    height: 36vw;
+    margin: 2vw;
+    border: 2px solid rgba(127, 127, 5, 0.822);
+    border-radius: 8px;
+}
+
 
 .buttons {
     text-align: center;
@@ -332,6 +343,14 @@ header a:hover {
     display: none;
     margin: auto;
     width: 70%;
+}
+    
+@media (max-width: 480px){
+    .mySlides {
+        display: none;
+        margin: auto;
+        width: 80%;
+    }
 }
 
 button,
