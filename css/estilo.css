@@ -117,15 +117,6 @@ header a:hover {
     .home-title-litle {
         display: block;   
     }
-    .youtube iframe,
-    .youtube object,
-    .youtube embed {
-    width: 75%;
-    /*height: 27vw;*/
-    margin: 2vw;
-    border: 2px solid rgba(127, 127, 5, 0.822);
-    border-radius: 8px;
-}
 }
 
 .music a {
