@@ -146,6 +146,14 @@ header a:hover {
     background-size: 100%;
 }
 
+@media (max-width: 480px){
+    .youtubediv {
+        background-image: none;
+        background-color:rgba( 193, 193, 193, 0.798 );
+        background-size: 100%;
+    }
+}
+
 .youtube {
     text-align: center;
     padding: 3vw;
