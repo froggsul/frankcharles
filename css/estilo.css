@@ -165,9 +165,10 @@ header a:hover {
     .youtube iframe,
     .youtube object,
     .youtube embed {
-    width: 75%;
-    height: 37vw;
+    width: 85%;
+    height: 45vw;
     margin: auto;
+    margin-top: 2vh;
     border: 2px solid rgba(127, 127, 5, 0.822);
     border-radius: 8px;
     }
