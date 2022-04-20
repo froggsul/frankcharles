@@ -228,8 +228,8 @@ header a:hover {
     text-indent: 3%;
     width: 70%;
     margin: auto;
-    margin-top: 2vw;
-    margin-bottom: 2vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 #biografia > .youtubeEnt {
     padding: 0;
