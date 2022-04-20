@@ -230,6 +230,7 @@ header a:hover {
     margin: auto;
     margin-top: 3vh;
     margin-bottom: 3vh;
+    text-align: justify;
 }
 #biografia > .youtubeEnt {
     padding: 0;
