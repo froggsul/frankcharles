@@ -297,14 +297,17 @@ header a:hover {
     text-decoration: none;
     padding: 1.5vw;
     text-align: center;
-    font-size: 3vw;
+    font-size: 3.5vw;
     letter-spacing: 1px;
 }
 
 #prensa p {
     text-align: center;
     margin-bottom: 3vw;
-    font-size: 2vw;
+    font-size: 3.5vw;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 3vw;
 }
 
 .youtubeEnt {
@@ -331,8 +334,8 @@ header a:hover {
     margin: 2vw;
     border: 2px solid rgba(127, 127, 5, 0.822);
     border-radius: 8px;
+    }
 }
-
 
 .buttons {
     text-align: center;
@@ -378,6 +381,7 @@ html [type=button] {
 }
 #fotos p {
     text-align: center;
+    font-size: 3.5vw;
 }
 #fotos > .slide > .mySlides {
     border: 2px solid rgba(127, 127, 5, 0.822);
