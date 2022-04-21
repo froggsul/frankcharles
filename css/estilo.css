@@ -146,6 +146,10 @@ header a:hover {
     background-size: 100%;
 }
 
+.youtubediv a {
+    margin-bottom: 2.5vw;
+}
+
 @media (max-width: 480px){
     .youtubediv {
         background-image: none;
