@@ -150,6 +150,10 @@ header a:hover {
     margin-bottom: 2.5vw;
 }
 
+.youtubediv a:hover {
+    color: rgba(127, 127, 5, 0.822);
+}
+
 @media (max-width: 480px){
     .youtubediv {
         background-image: none;
@@ -189,6 +193,10 @@ header a:hover {
 .spotifydiv {
     background-image: url("../img/spotifyPic.jpg");
     background-size: 100%;
+}
+
+.spotifydiv a:hover {
+    color: rgba(127, 127, 5, 0.822);
 }
 
 .spotify {
