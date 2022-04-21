@@ -164,7 +164,7 @@ header a:hover {
 .youtube embed {
     width: 50%;
     height: 27vw;
-    margin: 2vw;
+    margin: auto;
     border: 2px solid rgba(127, 127, 5, 0.822);
     border-radius: 8px;
 }
